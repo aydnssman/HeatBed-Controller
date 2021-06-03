@@ -22,10 +22,10 @@ New updates are coming soon...  :)
 
 It was designed open source with [ugurbayezit](https://github.com/ugurbayezit).
 
-## Heat Bed Controller Schematic:
+## Heat Bed Controller Schematic
 
-![Heat Bed Controller Schematic](https://github.com/ugurbayezit/Heat_Bed_Controller/blob/readme/Heat_Bed_Controller.png)
+![Heat Bed Controller Schematic](https://github.com/ugurbayezit/Heat_Bed_Controller/blob/main/Heat_Bed_Controller_Schematic.png)
 
-## Temperature Controller Schematic:
+## Temperature Controller Schematic
 
-![Temperature Controller Schematic](https://github.com/ugurbayezit/Heat_Bed_Controller/blob/readme/Heat_Bed_Temp_Controller.png)
+![Temperature Controller Schematic](https://github.com/ugurbayezit/Heat_Bed_Controller/blob/main/Heat_Bed_Temp_Controller_Schematic.png)
