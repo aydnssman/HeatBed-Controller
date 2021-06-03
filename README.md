@@ -1,8 +1,8 @@
 # HeatBed Controller
 
-It is made to ensure that the standard heat bed remains constant at the desired temperature.
+This project was made to keep the standard heat bed constant at the desired temperature in a closed environment (such as an oven) and to measure the temperature inside.
 
-The following system has also been installed in order to control the heat bed temperature depending on the heat bed.
+New updates are coming soon...  :)
 
 ## Used Components
 
