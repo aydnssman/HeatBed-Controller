@@ -2,11 +2,7 @@
 
 It is made to ensure that the standard heat bed remains constant at the desired temperature.
 
-The following system has also been installed in order to control the table temperature depending on the heat bed.
-
-![Heat Bed Controller Schematic](https://github.com/ugurbayezit/Heat_Bed_Controller/blob/readme/Heat_Bed_Controller.png)
-
-![Temperature Controller Schematic](https://github.com/ugurbayezit/Heat_Bed_Controller/blob/readme/Heat_Bed_Temp_Controller.png)
+The following system has also been installed in order to control the heat bed temperature depending on the heat bed.
 
 ## Used Components
 
@@ -25,3 +21,11 @@ The following system has also been installed in order to control the table tempe
 7.  Heat Bed
 
 It was designed open source with [ugurbayezit](https://github.com/ugurbayezit).
+
+## Heat Bed Controller Schematic:
+
+![Heat Bed Controller Schematic](https://github.com/ugurbayezit/Heat_Bed_Controller/blob/readme/Heat_Bed_Controller.png)
+
+## Temperature Controller Schematic:
+
+![Temperature Controller Schematic](https://github.com/ugurbayezit/Heat_Bed_Controller/blob/readme/Heat_Bed_Temp_Controller.png)
