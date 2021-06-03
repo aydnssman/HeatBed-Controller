@@ -8,17 +8,17 @@ New updates are coming soon...  :)
 
 1.  Arduino Uno
 
-2.  5 x (100 K NTC & 10 K Resistor) 
+2.  Heat Bed
 
-3.  Potantiometer
+3.  12 V 10 A Power Supply
 
 4.  IRF44N MOSFET & BC235 Transistor
 
 5.  1N4001 Diode
 
-6.  12 V 10 A Dc Voltage Source 
+6.   Potantiometer
 
-7.  Heat Bed
+7.  5 x (100 K NTC & 10 K Resistor) 
 
 It was designed open source with [ugurbayezit](https://github.com/ugurbayezit).
 
